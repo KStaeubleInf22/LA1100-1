@@ -12,7 +12,7 @@ Gruppenname: in keiner gruppe. Nachname: Stäuble
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein RNG (random number generator)
 
 ### 1.2 User Stories
 
@@ -60,7 +60,7 @@ Total: 1 h 35 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es nicht sehr schwer wäre, aber ich lag falsch. Ich konnte aber viele meiner probleme lösen und noch ein Versuchesystem einfügen.
 
 ## 4 Realisieren
 
@@ -68,11 +68,12 @@ Total: 1 h 35 min
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 01.09.2022|Kilian |  45 min       | 50 min            |
 | 2.A  | 01.09.2022|Kilian |  10 min       | 5 min             |
-| 3.A  | 08.09.2022|Kilian |  25 min       | 45 min            |
-| 4.A  | 08.09.2022|Kilian |  5 min        | 3 min             |
-| 5.A  | 08.09.2022|Kilian |  5 min        | 2 min             |
+| 3.A  | 01/08.09.2022|Kilian| 25 min      | 75 min            |
+| 4.A  | 08.09.2022|Kilian |  5 min        | 7 min             |
+| 5.A  | 08.09.2022|Kilian |  5 min        | 3 min             |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+01.09.2022. Ich habe insgesamt 55 min an der RNG uhr gearbeitet, das erstellen des RNG hat am längsten gebraucht.
+08.09.2022. Es war sehr kniffelig das Versuchesystem einzufügen. Ich habe mir lange gedanken gemacht, wie es funktionieren könnte. Ich konnte es aber am ende schaffen. Die aufgaben habe ich insgesamt in 85 min gearbeitet.
 
 ## 5 Kontrollieren
 
