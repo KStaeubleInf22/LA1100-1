@@ -5,8 +5,8 @@ Gruppenname: in keiner gruppe. Nachname: Stäuble
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |25.08.22| 0.0.1   | Ich muss heute bis aufgabe 1.3 arbeiten. |
-|01.09.22| ...     | Ich habe die Planung erstellt. |
-|08.09.22| 1.0.0   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
+|01.09.22| 0.0.2    | Ich habe die Planung erstellt. |
+|08.09.22| 0.0.3   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
 
 ## 1 Informieren
 
@@ -46,10 +46,12 @@ Ein RNG (random number generator)
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |   Kilian        | rng erstellen | 45 min |
-| 2.A  |       |   Kilian        | text für rng |  10 min |
+| 2.A  |       |   Kilian        | Text für rng |  10 min |
 | 3.A  |       |   Kilian        | bestimmte Anzahl versüche | 25 min |
-| 4.A  |       |   Kilian        | text für anzahl | 10 min |
-| 5.A  |       |   Kilian        | rng nummer anzeigen | 5 min |
+| 4.A  |       |   Kilian        | Text für Anzahl | 10 min |
+| 5.A  |       |   Kilian        | rng Nummer anzeigen | 5 min |
+| 6.A  |       |   Kilian        | Knopf für Nummer| 20 min|
+| 7.A  |       |   Kilian        | Eastereggs| 25 min|
 
 
 Total: 1 h 35 min
