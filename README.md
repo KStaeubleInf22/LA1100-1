@@ -73,6 +73,7 @@ Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es n
 | 5.A  | 08.09.2022|Kilian |  5 min        | 3 min             |
 
 01.09.2022. Ich habe insgesamt 55 min an der RNG uhr gearbeitet, das erstellen des RNG hat am längsten gebraucht.
+
 08.09.2022. Es war sehr kniffelig das Versuchesystem einzufügen. Ich habe mir lange gedanken gemacht, wie es funktionieren könnte. Ich konnte es aber am ende schaffen. Die aufgaben habe ich insgesamt in 85 min gearbeitet.
 
 ## 5 Kontrollieren
