@@ -68,7 +68,9 @@ Total: 1 h 35 min
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 01.09.2022|Kilian |  45 min       | 50 min            |
 | 2.A  | 01.09.2022|Kilian |  10 min       | 5 min             |
-| 3.A  | 08.09.2022|Kilian |  25 min       | 
+| 3.A  | 08.09.2022|Kilian |  25 min       | 45 min            |
+| 4.A  | 08.09.2022|Kilian |  5 min        | 3 min             |
+| 5.A  | 08.09.2022|Kilian |  
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
