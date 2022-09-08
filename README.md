@@ -5,8 +5,8 @@ Gruppenname: in keiner gruppe. Nachname: Stäuble
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |25.08.22| 0.0.1   | Ich muss heute bis aufgabe 1.3 arbeiten. |
-|01.09.22| ...     | Ich habe die Planung erstellt|
-|08.09.22| 1.0.0   | |
+|01.09.22| ...     | Ich habe die Planung erstellt. |
+|08.09.22| 1.0.0   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
 
 ## 1 Informieren
 
