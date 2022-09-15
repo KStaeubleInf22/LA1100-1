@@ -5,14 +5,15 @@ Gruppenname: in keiner gruppe. Nachname: Stäuble
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |25.08.22| 0.0.1   | Ich muss heute bis aufgabe 1.3 arbeiten. |
-|01.09.22| 0.0.2    | Ich habe die Planung erstellt. |
+|01.09.22| 0.0.2   | Ich habe die Planung erstellt. |
 |08.09.22| 0.0.3   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
+|15.09.22| 0.0.4   | Ich habe ein cheat erstellt für das RNG spiel.
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Ein RNG (random number generator)
+Ein RNG (random number generator) game.
 
 ### 1.2 User Stories
 
