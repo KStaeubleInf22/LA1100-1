@@ -18,11 +18,11 @@ Ein RNG (random number generator)
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Kann           | Rand      | Als ein Restaurantführer möchte ich dass meine Kunden höflig sind, damit meine Kellner nicht kündigen.|
-| 2    |  Kann           | Funktional| Als ein Applikationsentwickler möchte ich dass meine Kunden genau wissen was sie wollen, damit meine arbeit einfacher ist.|
-| 3    |  Muss           | Funktional| Als ein Reporter möchte ich dass die Zeugen ehrlich sind, damit ich keine Missinformation verbreite.|
-| 4    |  Kann           | Funktional| Als ein Hausmeister möchte ich dass andere menschen ihren abfall in den Mülleimer werfen, damit meine arbeit leichter ist.|
-| 5    |  Kann           | Funktional| Als ein Friseur möchte ich das meine Kunden wissen was sie wollen, damit sie nicht unglücklich mit dem resultat sind.|
+| 1    |  Muss           | Funktional| Als ein Spieler möchte ich dass der RNG funktioniert, damit es nicht immer die selbe zah.|
+| 2    |  Muss           | Funktional| Als ein Programmierer möchte ich das der code keine felhler hat, damit das spiel nicht frustierend ist.|
+| 3    |  Kann           | Funktional| Als ein Programmierer möchte ich nur das der spielen eine bestimmte anzahl versuche hat, damit es nicht zu einfach ist.|
+| 4    |  Kann           | Funktional| Als ein Programmierer möchte ich ein cheat einfügen, damit ich die RNG nummer sehen kann.|
+| 5    |  Kann           | Funktional| Als ein Programmierer möchte ich eastereggs einfügen, damit Spieler geheimnisse finden können.|
 
 
 ### 1.3 Testfälle
@@ -35,7 +35,6 @@ Ein RNG (random number generator)
 | 4.1  |Begrentze versüche|   10 versuche|   richtig|
 | 5.1  |Text programmieren| Text        | antworten |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -69,10 +68,13 @@ Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es n
 | 3.A  | 01/08.09.2022|Kilian| 25 min      | 75 min            |
 | 4.A  | 08.09.2022|Kilian |  5 min        | 7 min             |
 | 5.A  | 08.09.2022|Kilian |  5 min        | 3 min             |
+| 6.A  | 15.09.2022|Kilian |  20 min       | 145 min           |
 
 01.09.2022. Ich habe insgesamt 55 min an der RNG uhr gearbeitet, das erstellen des RNG hat am längsten gebraucht.
 
 08.09.2022. Es war sehr kniffelig das Versuchesystem einzufügen. Ich habe mir lange gedanken gemacht, wie es funktionieren könnte. Ich konnte es aber am ende schaffen. Die aufgaben habe ich insgesamt in 85 min gearbeitet.
+
+15.09.2022. Ich habe unterschetzt, wie schwer es eigentlich war wörter einzufügen.
 
 ## 5 Kontrollieren
 
