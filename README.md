@@ -90,10 +90,10 @@ Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es n
 | 3.1  |höher oder tiefer anzeige| funktioniert|Kilian|
 | 4.1  |begrenzte versüche| funktioniert|Kilian|
 | 5.1  |text programmieren| funktioniert|Kilian|
-| 6.1  |cheat eingefügt| funktioniert nicht|Kilian|
+| 6.1  |cheat eingefügt| funktioniert|Kilian|
 | 7.1  |easteregg eingefügt| funktioniert nicht|Kilian|
 
-ein grossteil meines Codes funktioniert, aber ich kann die cheats nicht einfügen. es funktioniert nicht richtig.
+Der Code ist zum grossteil fertig, aber ich konnte mein Easteregg noch nicht einfügen.
 
 
 ## 6 Auswerten
