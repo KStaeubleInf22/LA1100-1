@@ -99,4 +99,4 @@ Der Code ist eigentlich fertig, aber ich würde trozdem noch einpaar sachen dazu
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/KStaeubleInf22/Lern-Bericht
