@@ -8,7 +8,7 @@ Gruppenname: in keiner gruppe. Nachname: Stäuble
 |01.09.22| 0.2   | Ich habe die Planung erstellt. |
 |08.09.22| 0.3   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
 |15.09.22| 0.4   | Ich habe ein cheat erstellt für das RNG spiel. |
-|22.09.22| 1.0   | Ich versuche den code zu reparieren. |
+|22.09.22| 1.0   | Ich versuche den code zu reparieren und ein easteregg einzufügen. |
 
 ## 1 Informieren
 
@@ -73,6 +73,7 @@ Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es n
 | 4.A  | 08.09.2022|Kilian |  5 min        | 7 min             |
 | 5.A  | 08.09.2022|Kilian |  5 min        | 3 min             |
 | 6.A  | 15.09.2022|Kilian |  20 min       | 145 min           |
+| 7.A  | 22.09.2022|Kilian |  25 min       | 10 min            |
 
 01.09.2022. Ich habe insgesamt 55 min an der RNG uhr gearbeitet, das erstellen des RNG hat am längsten gebraucht.
 
@@ -91,9 +92,9 @@ Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es n
 | 4.1  |begrenzte versüche| funktioniert|Kilian|
 | 5.1  |text programmieren| funktioniert|Kilian|
 | 6.1  |cheat eingefügt| funktioniert|Kilian|
-| 7.1  |easteregg eingefügt| funktioniert nicht|Kilian|
+| 7.1  |easteregg eingefügt| funktioniert|Kilian|
 
-Der Code ist zum grossteil fertig, aber ich konnte mein Easteregg noch nicht einfügen.
+Der Code ist eigentlich fertig, aber ich würde trozdem noch einpaar sachen dazu einarbeiten.
 
 
 ## 6 Auswerten
