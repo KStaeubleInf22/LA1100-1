@@ -4,10 +4,11 @@ Gruppenname: in keiner gruppe. Nachname: Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|25.08.22| 0.0.1   | Ich muss heute bis aufgabe 1.3 arbeiten. |
-|01.09.22| 0.0.2   | Ich habe die Planung erstellt. |
-|08.09.22| 0.0.3   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
-|15.09.22| 0.0.4   | Ich habe ein cheat erstellt für das RNG spiel.
+|25.08.22| 0.1   | Ich muss heute bis aufgabe 1.3 arbeiten. |
+|01.09.22| 0.2   | Ich habe die Planung erstellt. |
+|08.09.22| 0.3   | Für das RNG habe ich ein funktionierendes Versuchesystem erstellt. |
+|15.09.22| 0.4   | Ich habe ein cheat erstellt für das RNG spiel. |
+|22.09.22| 1.0   | Ich versuche den code zu reparieren. |
 
 ## 1 Informieren
 
@@ -35,6 +36,8 @@ Ein RNG (random number generator) game.
 | 3.1  |Höher oder tiefer| Mehrere zahlen|  richtig |
 | 4.1  |Begrentze versüche|   10 versuche|   richtig|
 | 5.1  |Text programmieren| Text        | antworten |
+| 6.1  |Cheat eingefügt| input: "Show"| cheat activation|
+| 7.1  |Easteregg eingefügt| input: "Easteregg"| easteregg activation|
 
 
 ### 1.4 Diagramme
@@ -83,19 +86,15 @@ Ich habe mich entschieden ein RNG zu programmieren. Ich habe vermutet, dass es n
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  |rng code| funktioniert|Kilian|
+| 3.1  |höher oder tiefer anzeige| funktioniert|Kilian|
+| 4.1  |begrenzte versüche| funktioniert|Kilian|
+| 5.1  |text programmieren| funktioniert|Kilian|
+| 6.1  |cheat eingefügt| funktioniert nicht|Kilian|
+| 7.1  |easteregg eingefügt| funktioniert nicht|Kilian|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+ein grossteil meines Codes funktioniert, aber ich kann die cheats nicht einfügen. es funktioniert nicht richtig.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
